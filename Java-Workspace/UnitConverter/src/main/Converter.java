@@ -104,18 +104,10 @@ public class Converter {
 						System.out.println("\n Please enter a single character, or 'c' to quit\n\n");
 						break;
 
-					}
-
+					}	
+		}
+		}
 			
-		}
-		}
-		
-		
-//		System.out.println(CtoF.CelsiusToFarenheit(25));
-//		
-//		System.out.println(FtoC.FarenheitToCelsius(98.6));
-//		
-//		
 	}
 
 }
